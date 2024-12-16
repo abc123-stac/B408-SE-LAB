@@ -1,2 +1,2 @@
 # B408-SE-LAB
-This is demo lab for creating a repository.
+This is demo lab for creating a repository and github.
